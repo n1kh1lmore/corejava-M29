@@ -1,6 +1,6 @@
 
 //program to demonstrate on user input
-package daytwo;
+package inputdemo;
 import java.util.*;
 
 public class UserInputDemo {

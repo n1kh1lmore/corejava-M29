@@ -1,5 +1,6 @@
+
 //program to demonstrate on compile-time input
-package daytwo;
+package inputdemo;
 
 public class CompilerInput {
 
